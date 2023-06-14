@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book category="cooking" id="1">
+		<title lang="en">Everyday Italian</title>
+		<author>Giada De Laurentiis</author>
+	</book>
+	<book category="children" id="2">
+		<title lang="en">Harry Potter</title>
+		<author>J K. Rowling</author>
+	</book>
+	<book category="web" id="3">
+		<title lang="en">Learning XML</title>
+		<author>Erik T. Ray</author>
+	</book>
+</bookstore> 
